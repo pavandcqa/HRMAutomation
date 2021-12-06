@@ -1,0 +1,6 @@
+2021-12-04 09:57:56,700  INFO [main] TestBase:35 - *********** Initializing **********
+2021-12-04 09:57:56,708  INFO [main] TestBase:37 - Initializing Properties File Object
+2021-12-04 09:58:09,359  INFO [main] TestBase:14 - user is on DashboardPage
+2021-12-04 09:58:11,394  INFO [main] TestBase:35 - *********** Initializing **********
+2021-12-04 09:58:11,395  INFO [main] TestBase:37 - Initializing Properties File Object
+2021-12-04 09:58:24,702  INFO [main] TestBase:14 - User is on System Users page
